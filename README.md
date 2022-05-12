@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Wyatt</h1>
 <h3 align="center">A passionate developer that enjoys React, Typescript and Express</h3>
-<p>Feel free to connect with me on <a href="https://linkedin.com/in/wyatt-r" target="blank">Linkedin</a>, especially if you are fellow alumni of Western Governor's University, in the software development field, or are a recruiter for a tech company.</p>
+<p>Feel free to connect with me on <a href="https://linkedin.com/in/wyatt-r" target="blank">Linkedin</a>, especially if you are fellow alumni of Western Governor's University.</p>
 
 <h2>About Me</h2>
 <ul>
