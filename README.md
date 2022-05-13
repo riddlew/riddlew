@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>About Me</h2>
 <ul>
-  <li>🎓 Recent graduate with a Bachelor of Science in Software Development.</li>
+  <li>🎓 Graduate with a Bachelor of Science in Software Development.</li>
   <li>🏢 Currently working as an Network Operations Intern building tools / sites to help improve and automate operations.
   <li>🧠 I mainly use React with Redux, Typescript, Express, and sometimes Python. I've also used C++, Java and C#, but not often. I'd like to learn Go, Rust, and Angular.</li>
   <li>👨‍💻 My editor of choice is VSCode or NVIM.</li>
