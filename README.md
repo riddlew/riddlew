@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   <li>🎓 Graduate with a Bachelor of Science in Software Development.</li>
   <li>:man_office_worker: Currently working as an Network Operations Intern building tools / sites to help improve and automate operations.
   <li>:hammer_and_wrench: Most of my experience has been with React, some Redux, Typescript, and sometimes Python. I've also used C++, Java, and C#, but not often enough to consider myself experienced with it (I'd love the chance to learn C++ on a deeper level though). I'd like to learn Go, Rust, and Ruby / Ruby on Rails.</li>
-  <li>:computer: Linux lover.</li>
+  <li>:computer: Linux lover, VIM enthusiast.</li>
 </ul>
 <h2>Projects</h2>
 TODO
