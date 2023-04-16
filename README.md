@@ -2,7 +2,7 @@
 <h1 align="center">About Me</h1>
 <h3 align="center">Full-stack Web Developer, Linux lover, and NVIM enthusiast. </h3>
 
-<h3 align="center">Languages / Frameworks / Tools</h3>
+<h3 align="center">🔧 Languages / Frameworks / Tools</h3>
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
