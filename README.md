@@ -1,18 +1,21 @@
 <img src="images/software-engineer.png" align="center" />
+<br>
+
 <ul>
 <li>💻 I'm a Software Engineer that primarily works with React, Typescript, Ruby on Rails, and Node / Express.</li>
 <li>🎓 I have a Bachelor of Science degree in Software Development.</li>
 <li>📖 I am currently learning Ruby on Rails in order to improve my knowledge of the Rails ecosystem.</li>
-<li>📚 I am interested in learning more about Laravel and Go.</li>
+<li>📚 I am interested in learning more about Laravel, Go, Angular, and C.</li>
 <ul>
 
+<br>
 <h3 align="center">📱 Connect With Me</h3>
 <p align="center">
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![Website](https://img.shields.io/badge/Website-%23E7EEF0.svg?style=for-the-badge&logo=anaconda&logoColor=%2302A8EF)
+<a target="_blank" href="https://www.linkedin.com/in/wyatt-r/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" href="https://twitter.com/riddlew_" title="Twitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a target="_blank" href="https://www.riddl.dev" title="Website"><img src="https://img.shields.io/badge/Website-%23E7EEF0.svg?style=for-the-badge&logo=anaconda&logoColor=%2302A8EF" /></a>
 </p>
-
+<br>
 <h3 align="center">🔧 Languages, frameworks, etc</h3>
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /> -->
@@ -42,7 +45,8 @@
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
+<br>
+<br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=riddlew&count_private=true&show_icons=true&theme=ayu-mirage" />
 </p>
@@ -50,3 +54,72 @@
 <!-- <a href="https://github.com/riddlew/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=riddlew&repo=portfolio&theme=gruvbox" />
 </a> -->
+
+<br>
+<h3 align="center">📰 Projects</h3>
+<table bordercolor="#04508c">
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">Todo</h3>
+<br />
+<!-- <a target="_blank" href="#"><img src="images/test.gif" width="100%" alt="Test Image" /></a> -->
+<p align="center">
+<a target="_blank" href="View Repo"><img src="https://img.shields.io/badge/Repo-00A95C.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<a target="_blank" href="View Website"><img src="https://img.shields.io/badge/Website-%23E7EEF0.svg?style=for-the-badge&logo=gnome-terminal&logoColor=%2302A8EF" /></a>
+</p>
+<br>
+<p>Test description goes here</p>
+<br>
+<p align="center">
+<strong>React, Next.js, Typescript, Node.js, Express.js TailwindCSS, MongoDB</strong>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">Todo</h3>
+<br />
+<!-- <a target="_blank" href="#"><img src="images/test.gif" width="100%" alt="Test Image" /></a> -->
+<p align="center">
+<a target="_blank" href="View Repo"><img src="https://img.shields.io/badge/Repo-00A95C.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<a target="_blank" href="View Website"><img src="https://img.shields.io/badge/Website-%23E7EEF0.svg?style=for-the-badge&logo=gnome-terminal&logoColor=%2302A8EF" /></a>
+</p>
+<br>
+<p>Test description goes here</p>
+<br>
+<p align="center">
+<strong>React, Next.js, Typescript, Node.js, Express.js TailwindCSS, MongoDB</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">Todo</h3>
+<br />
+<!-- <a target="_blank" href="#"><img src="images/test.gif" width="100%" alt="Test Image" /></a> -->
+<p align="center">
+<a target="_blank" href="View Repo"><img src="https://img.shields.io/badge/Repo-00A95C.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<a target="_blank" href="View Website"><img src="https://img.shields.io/badge/Website-%23E7EEF0.svg?style=for-the-badge&logo=gnome-terminal&logoColor=%2302A8EF" /></a>
+</p>
+<br>
+<p>Test description goes here</p>
+<br>
+<p align="center">
+<strong>React, Next.js, Typescript, Node.js, Express.js TailwindCSS, MongoDB</strong>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">Todo</h3>
+<br />
+<!-- <a target="_blank" href="#"><img src="images/test.gif" width="100%" alt="Test Image" /></a> -->
+<p align="center">
+<a target="_blank" href="View Repo"><img src="https://img.shields.io/badge/Repo-00A95C.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<a target="_blank" href="View Website"><img src="https://img.shields.io/badge/Website-%23E7EEF0.svg?style=for-the-badge&logo=gnome-terminal&logoColor=%2302A8EF" /></a>
+</p>
+<br>
+<p>Test description goes here</p>
+<br>
+<p align="center">
+<strong>React, Next.js, Typescript, Node.js, Express.js TailwindCSS, MongoDB</strong>
+</p>
+</td>
+</tr>
+</table>
