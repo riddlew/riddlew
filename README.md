@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=riddlew&count_private=true&show_icons=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api?username=riddlew&count_private=true&show_icons=true&theme=ayu-mirage" />
 </p>
 
 <!-- <a href="https://github.com/riddlew/portfolio">
