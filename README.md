@@ -1,3 +1,4 @@
+<img src="images/software-engineer.png" align="center" />
 <h1 align="center">About Me</h1>
 <h3 align="center">Full-stack Web Developer, Linux lover, and NVIM enthusiast. </h3>
 
