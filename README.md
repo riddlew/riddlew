@@ -1,8 +1,19 @@
 <img src="images/software-engineer.png" align="center" />
-<h1 align="center">About Me</h1>
-<h3 align="center">Full-stack Web Developer, Linux lover, and NVIM enthusiast. </h3>
+<ul>
+<li>💻 I'm a Software Engineer that primarily works with React, Typescript, Ruby on Rails, and Node / Express.</li>
+<li>🎓 I have a Bachelor of Science degree in Software Development.</li>
+<li>📖 I am currently learning Ruby on Rails in order to improve my knowledge of the Rails ecosystem.</li>
+<li>📚 I am interested in learning more about Laravel and Go.</li>
+<ul>
 
-<h3 align="center">🔧 Languages / Frameworks / Tools</h3>
+<h3 align="center">📱 Connect With Me</h3>
+<p align="center">
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Website](https://img.shields.io/badge/Website-%23E7EEF0.svg?style=for-the-badge&logo=anaconda&logoColor=%2302A8EF)
+</p>
+
+<h3 align="center">🔧 Languages, frameworks, etc</h3>
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -28,6 +39,7 @@
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
