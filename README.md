@@ -54,6 +54,10 @@
 <!-- <a href="https://github.com/riddlew/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=riddlew&repo=portfolio&theme=gruvbox" />
 </a> -->
+  
+<p align="center">
+<img align="center" src="https://streak-stats.demolab.com/?user=riddlew&theme=ayu-mirage" />
+</p>
 
 <br>
 <h3 align="center">📰 Projects</h3>
