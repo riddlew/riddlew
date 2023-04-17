@@ -61,12 +61,13 @@
 
 <br>
 <h3 align="center">📰 Projects</h3>
+<!--
 <table bordercolor="#04508c">
 <tr>
 <td width="50%" valign="top">
 <h3 align="center">Todo</h3>
 <br />
-<!-- <a target="_blank" href="#"><img src="images/test.gif" width="100%" alt="Test Image" /></a> -->
+<a target="_blank" href="#"><img src="images/test.gif" width="100%" alt="Test Image" /></a>
 <p align="center">
 <a target="_blank" href="View Repo"><img src="https://img.shields.io/badge/Repo-00A95C.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 <a target="_blank" href="View Website"><img src="https://img.shields.io/badge/Website-%23E7EEF0.svg?style=for-the-badge&logo=gnome-terminal&logoColor=%2302A8EF" /></a>
@@ -81,7 +82,7 @@
 <td width="50%" valign="top">
 <h3 align="center">Todo</h3>
 <br />
-<!-- <a target="_blank" href="#"><img src="images/test.gif" width="100%" alt="Test Image" /></a> -->
+<a target="_blank" href="#"><img src="images/test.gif" width="100%" alt="Test Image" /></a>
 <p align="center">
 <a target="_blank" href="View Repo"><img src="https://img.shields.io/badge/Repo-00A95C.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 <a target="_blank" href="View Website"><img src="https://img.shields.io/badge/Website-%23E7EEF0.svg?style=for-the-badge&logo=gnome-terminal&logoColor=%2302A8EF" /></a>
@@ -98,7 +99,7 @@
 <td width="50%" valign="top">
 <h3 align="center">Todo</h3>
 <br />
-<!-- <a target="_blank" href="#"><img src="images/test.gif" width="100%" alt="Test Image" /></a> -->
+<a target="_blank" href="#"><img src="images/test.gif" width="100%" alt="Test Image" /></a>
 <p align="center">
 <a target="_blank" href="View Repo"><img src="https://img.shields.io/badge/Repo-00A95C.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 <a target="_blank" href="View Website"><img src="https://img.shields.io/badge/Website-%23E7EEF0.svg?style=for-the-badge&logo=gnome-terminal&logoColor=%2302A8EF" /></a>
@@ -113,7 +114,7 @@
 <td width="50%" valign="top">
 <h3 align="center">Todo</h3>
 <br />
-<!-- <a target="_blank" href="#"><img src="images/test.gif" width="100%" alt="Test Image" /></a> -->
+<a target="_blank" href="#"><img src="images/test.gif" width="100%" alt="Test Image" /></a>
 <p align="center">
 <a target="_blank" href="View Repo"><img src="https://img.shields.io/badge/Repo-00A95C.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 <a target="_blank" href="View Website"><img src="https://img.shields.io/badge/Website-%23E7EEF0.svg?style=for-the-badge&logo=gnome-terminal&logoColor=%2302A8EF" /></a>
@@ -127,3 +128,5 @@
 </td>
 </tr>
 </table>
+-->
+<p align="center">Coming Soon</p>
