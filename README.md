@@ -4,7 +4,8 @@
 <ul>
 <li>💻 I'm a Software Engineer that primarily works with React, Typescript, Ruby on Rails, and Node / Express.</li>
 <li>🎓 I have a Bachelor of Science degree in Software Development.</li>
-<li>📖 I am currently learning Ruby on Rails.</li>
+<li>👩‍💻 I am currently working on <a href="https://github.com/riddlew/portfolio">my portfolio website</a>.
+<li>🧠 I am currently learning Ruby on Rails.</li>
 <li>📚 I am interested in learning more about Laravel, Go, Angular, and C.</li>
 <ul>
 
