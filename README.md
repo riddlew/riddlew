@@ -4,19 +4,19 @@
 <ul>
 <li>💻 I'm a Software Engineer that primarily works with React, Typescript, Ruby on Rails, and Node / Express.</li>
 <li>🎓 I have a Bachelor of Science degree in Software Development.</li>
-<li>📖 I am currently learning Ruby on Rails in order to improve my knowledge of the Rails ecosystem.</li>
+<li>📖 I am currently learning Ruby on Rails.</li>
 <li>📚 I am interested in learning more about Laravel, Go, Angular, and C.</li>
 <ul>
 
 <br>
-<h3 align="center">📱 Connect With Me</h3>
+<h2 align="center">📱 Connect With Me</h2>
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/wyatt-r/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a target="_blank" href="https://twitter.com/riddlew_" title="Twitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 <a target="_blank" href="https://www.riddl.dev" title="Website"><img src="https://img.shields.io/badge/Website-%23E7EEF0.svg?style=for-the-badge&logo=anaconda&logoColor=%2302A8EF" /></a>
 </p>
 <br>
-<h3 align="center">🔧 Languages, frameworks, etc</h3>
+<h2 align="center">🛠 Languages, frameworks, etc</h2>
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -60,7 +60,7 @@
 </p>
 
 <br>
-<h3 align="center">📰 Projects</h3>
+<h2 align="center">📰 Projects</h2>
 <!--
 <table bordercolor="#04508c">
 <tr>
