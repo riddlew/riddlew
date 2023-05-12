@@ -62,40 +62,32 @@
 
 <br>
 <h2 align="center">📰 Projects</h2>
-<!--
 <table bordercolor="#04508c">
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">Todo</h3>
-<br />
-<a target="_blank" href="#"><img src="images/test.gif" width="100%" alt="Test Image" /></a>
+<h3 align="center">Libro List</h3>
+<a target="_blank" href="https://github.com/riddlew/libro-list"><img src="images/gifs/libro-list.gif" width="100%" alt="Test Image" /></a>
+<br>
+<br>
 <p align="center">
-<a target="_blank" href="View Repo"><img src="https://img.shields.io/badge/Repo-00A95C.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
-<a target="_blank" href="View Website"><img src="https://img.shields.io/badge/Website-%23E7EEF0.svg?style=for-the-badge&logo=gnome-terminal&logoColor=%2302A8EF" /></a>
+<a target="_blank" href="https://github.com/riddlew/libro-list" title="View repo"><img src="https://img.shields.io/badge/Repo-00A95C.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<a target="_blank" href="#" title="View website"><img src="https://img.shields.io/badge/Website-%23E7EEF0.svg?style=for-the-badge&logo=gnome-terminal&logoColor=%2302A8EF" /></a>
 </p>
-<br>
-<p>Test description goes here</p>
-<br>
+<p>
+LibroList is a book tracker app that allows you to create and edit multiple lists for books, manga, anime, tv shows, or anything else that can be labelled numerically.
+</p>
+<p>
+The app includes keyboard shortcuts that allow you to navigate and update your lists blazingly fast, which means you'll spend less time updating your lists and more time reading.
+</p>
 <p align="center">
-<strong>React, Next.js, Typescript, Node.js, Express.js TailwindCSS, MongoDB</strong>
+<strong>React, Redux, Typescript, TailwindCSS</strong>
 </p>
 </td>
-<td width="50%" valign="top">
-<h3 align="center">Todo</h3>
-<br />
-<a target="_blank" href="#"><img src="images/test.gif" width="100%" alt="Test Image" /></a>
-<p align="center">
-<a target="_blank" href="View Repo"><img src="https://img.shields.io/badge/Repo-00A95C.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
-<a target="_blank" href="View Website"><img src="https://img.shields.io/badge/Website-%23E7EEF0.svg?style=for-the-badge&logo=gnome-terminal&logoColor=%2302A8EF" /></a>
-</p>
-<br>
-<p>Test description goes here</p>
-<br>
-<p align="center">
-<strong>React, Next.js, Typescript, Node.js, Express.js TailwindCSS, MongoDB</strong>
-</p>
+<td width="50%" valign="center">
+<h3 align="center">More coming soon...</h3>
 </td>
 </tr>
+<!--
 <tr>
 <td width="50%" valign="top">
 <h3 align="center">Todo</h3>
@@ -128,6 +120,5 @@
 </p>
 </td>
 </tr>
-</table>
 -->
-<p align="center">Coming Soon</p>
+</table>
