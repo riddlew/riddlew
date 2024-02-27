@@ -3,7 +3,7 @@
 
 <ul>
 <li>💻 Software Engineer focused on .NET, Ruby on Rails, Laravel, Angular, and Vue.</li>
-<li>👩‍💻 Currently working on <a href="https://github.com/riddlew/portfolio">my portfolio website</a>.
+<!--<li>👩‍💻 Currently working on <a href="https://github.com/riddlew/portfolio">my portfolio website</a>.-->
 <li>🧠 Interested in learning Ruby on Rails, Laravel, and Rust.</li>
 <li>🎓 Bachelor of Science: Software Development.</li>
 </ul>
