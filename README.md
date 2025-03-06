@@ -1,8 +1,6 @@
 ## About Me
 
-Just a guy with an many interests, including .NET, Laravel, Spring Boot, WordPress, Angular, Vue, and React.
-
-One day I'd like to learn Elixir / Phoenix.
+Just a guy with many interests, including .NET, Laravel, Spring Boot, WordPress, Angular, Vue, and React.
 
 <br>
 <p>
